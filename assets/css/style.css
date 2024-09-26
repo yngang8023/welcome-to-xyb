@@ -967,7 +967,7 @@ p {
 
 @media (max-width: 767px) {
     .header-hero-content {
-        padding-top: 50px
+        padding-top: 150px
     }
 }
 
@@ -977,7 +977,7 @@ p {
     color: #fff
 }
 
-@media only screen and (min-width: 992px) and (max-width: 1199px) {
+@media only screen and (min-width: 992px) and (max-width: 899px) {
     .header-hero-content .hero-title {
         font-size: 48px
     }
