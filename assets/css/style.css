@@ -123,6 +123,7 @@ p {
     background-color: #05de7d
 }
 
+
 .main-btn:hover {
     background-color: rgba(5, 222, 125, .3);
     color: #05de7d;
@@ -1055,6 +1056,7 @@ p {
 }
 
 .text p {
+    font-family: 'Arial', serif; /* 选择一个易读的字体 */
     text-align: justify; /* 文本两端对齐 */
     line-height: 1.6; /* 行高 */
     color: #666; /* 深灰色文本 */
@@ -1853,7 +1855,7 @@ p {
 }
 
 .single-testimonial .testimonial-author .author-info .author-name {
-    padding-left: 30px
+    padding-left: 40px
 }
 
 .single-testimonial .testimonial-author .author-info .author-name .name {
@@ -1863,7 +1865,7 @@ p {
 }
 
 .single-testimonial .testimonial-author .author-info .author-name .sub-title {
-    font-size: 14px;
+    font-size: 13px;
     color: #798795;
     margin-top: 5px
 }
