@@ -142,7 +142,7 @@ p {
 }
 
 .section-title .sub-title {
-    font-size: 20px;
+    font-size: 50px;
     font-weight: 400;
     color: #05de7d;
     text-transform: uppercase
@@ -150,7 +150,7 @@ p {
 
 @media (max-width: 767px) {
     .section-title .sub-title {
-        font-size: 16px
+        font-size: 50px
     }
 }
 
@@ -2776,7 +2776,6 @@ p {
 
 /* 标语区域样式 */
 .slogan {
-    background-color: ;
     color: #fffafd;
     text-align: center;
     padding: 20px 0;
